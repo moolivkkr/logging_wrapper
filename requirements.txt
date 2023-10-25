@@ -1,0 +1,22 @@
+# Core dependencies
+decorator>=5.0.0
+
+# Web frameworks for cyberlog enrichment
+fastapi>=0.68.0
+Flask>=2.0.0
+Django>=3.2.0
+
+# Linting
+flake8>=3.9.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+pytest-django>=4.4.0
+pytest-flask>=1.2.0
+
+# Optional: For coverage reports
+coverage>=5.5
+
+# Optional: For generating HTML test reports
+pytest-html>=3.1.0

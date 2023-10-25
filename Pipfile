@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+decorator = "*"
+fastapi = "*"
+flask = "*"
+django = "*"
+flake8 = ">=3.9.0"
+pytest = ">=7.0.0"
+pytest-cov = ">=3.0.0"
+pytest-django = ">=4.4.0"
+pytest-flask = ">=1.2.0"
+coverage = ">=5.5"
+pytest-html = ">=3.1.0"
+
+[dev-packages]
+flake8 = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-django = "*"
+pytest-flask = "*"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.12"

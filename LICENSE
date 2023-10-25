@@ -1,0 +1,3 @@
+
+3. **.gitignore** - To ensure you don't accidentally commit unwanted files (like `__pycache__`, build directories, etc.), it would be beneficial to have a `.gitignore` file:
+
